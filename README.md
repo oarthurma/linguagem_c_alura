@@ -1,6 +1,9 @@
 <h1>Formação em linguagem C da Alura</h1>
 Link: https://www.alura.com.br/formacao-linguagem-c
 
+<br/>
+<br/>
+
 <h6>CURSO 1 DE 3</h6>
 <h2>C: conhecendo a Linguagem das Linguagens</h2>
 
