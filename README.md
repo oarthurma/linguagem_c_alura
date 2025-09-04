@@ -4,7 +4,7 @@ Link: https://www.alura.com.br/formacao-linguagem-c
 <br/>
 <br/>
 
-<h6>CURSO 1 DE 3</h6>
+<h6>CURSO 1</h6>
 <h2>C: conhecendo a Linguagem das Linguagens</h2>
 
 * Aprenda a criar o primeiro programa em C
@@ -20,7 +20,7 @@ Link: https://www.alura.com.br/formacao-linguagem-c
 <br/>
 <br/>
 
-<h6>CURSO 2 DE 3</h6>
+<h6>CURSO 2</h6>
 <h2>C: avançando na linguagem</h2>
 
 - Crie funções e manipule arrays
@@ -31,17 +31,7 @@ Link: https://www.alura.com.br/formacao-linguagem-c
 
 [CERTIFICADO](https://cursos.alura.com.br/certificate/3c461e9e-f546-408e-94de-9213b883aa4d)
 
-<br/>
-<br/>
 
-<h6>CURSO 3 DE 3</h6>
-<h2>C: recursos avançados da linguagem</h2>
-
-* Escreva funções recursivas e manipule matrizes
-* Defina tipos e estruturas
-* Entenda diretivas de compilação
-* Divida o código em múltiplos arquivos
-* Crie um jogo de Pac Man completo
 
 
 
